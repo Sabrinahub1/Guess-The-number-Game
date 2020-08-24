@@ -1,5 +1,5 @@
 # The Guessing Game 
-![](Guessthenumbergame.gif)
+![](Guess)
 
 ## Game Description 
 #### The Guessing Game is an interactive game in created with `python` programming language 
@@ -20,8 +20,9 @@
     Validate the computer will generate a random number  
 ---
 ---
-### Bonus
-* Deploy the guessing game in python version 2.7 & 3.8.4
+
+![](Guessno.gif)
+
 
 
 
