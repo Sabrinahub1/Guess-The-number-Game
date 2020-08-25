@@ -15,7 +15,7 @@
 **_Then_** when user guesses the correct number the computer will print the answer along with the number of attempts by the user 
 
     Validate the guessing game runs in python version 3.8.4
-    Validate the guessing game runs in python version 2. 
+    Validate the guessing game runs in python version 2.7
     Validate the user has five attempts to guess the correct number
     Validate the computer will generate a random number  
 ---
