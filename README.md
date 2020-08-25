@@ -1,4 +1,5 @@
 ![Numbers.jpg](https://github.com/Sabrinahub1/Guess-The-number-Game/blob/master/images/Numbers.jpg)
+![Smileyguess.jpg](https://github.com/Sabrinahub1/Guess-The-number-Game/blob/master/images/smileyguess.jpg)
 
 ## Game Description 
 #### The Guessing Game is an interactive game in created with `python` programming language 
