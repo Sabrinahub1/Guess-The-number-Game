@@ -1,5 +1,4 @@
-# The Guessing Game 
-![](C:\Users\TCP\backendGitPullOnly\python\pythonHomework\Guessthenumber\Guessinggame\images\Numbers.jpg)
+![](https://github.com/Sabrinahub1/Guess-The-number-Game/blob/master/images/Numbers.jpg)
 
 ## Game Description 
 #### The Guessing Game is an interactive game in created with `python` programming language 
